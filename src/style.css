@@ -9,3 +9,11 @@ nav li{
     font-weight: 600;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
+#block0{
+    margin-top: 60px;
+    margin-bottom: 50px;
+    margin-left:200px;
+    margin-right: 200px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
