@@ -39,6 +39,6 @@ nav li{
 
 }
 .background-black{
-    background-color: black;
-    
+    background-color: rgb(70, 70, 70);
+    padding-bottom:50px;
 }
